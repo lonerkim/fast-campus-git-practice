@@ -1,5 +1,6 @@
 # Fast-Campus-Git-Practice
 Practice repo of fast-campus, 14th Jan to 15th Jan
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/lonerkim/fast-campus-git-practice)
 ## Pre-Requititest
 All practices are tested in Debian 13 (trixie) with 6.17.4-2-pve kernel.
 
