@@ -22,7 +22,7 @@ apt update && apt install -y git
 # apt install -y vim
 ```
 ## Features
-This will greet user three times using `print()` and `for`
+This will greet user multiple times using `print()` and `for` with even number detection.
 
 ## Run Tests
 ```bash 
@@ -30,7 +30,9 @@ $ python3 main.py
 $ Hello, World!
 $ Hello, World!
 $ Hello, World!
+$ Hello, World!
+$ Hello, World!
 ```
 ## Credit
-[Fast Campus](https://fastcampus.co.kr/)
+[Fast Campus](https://fastcampus.co.kr/)<br>
 [Lectuerer's Repo](https://github.com/kingwangzzang1234/first-repo)
