@@ -1,0 +1,8 @@
+# Test
+
+secrets/**
+*.java
+password.*
+keyfile.pem
+.env*
+!.env.example
